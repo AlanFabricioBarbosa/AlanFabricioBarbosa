@@ -4,7 +4,8 @@
 
 > Alan Fabrício
 
-! Desenvolvedor Web
+! Desenvolvedor Front-End (Reactjs e JavaScript)
+! Desenvolvedor Back-End (Java e MySQL)
 ! Cursando Sistemas Para Internet
 
 ```
