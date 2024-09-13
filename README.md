@@ -5,8 +5,7 @@
 > Alan Fabrício
 
 ! Desenvolvedor Front-End (Reactjs e JavaScript)
-! Desenvolvedor Back-End (Java e MySQL)
-! Cursando Sistemas Para Internet
+! Cursando Análise e Desenvolvimento de Sistemas
 
 ```
  <div>
@@ -26,8 +25,8 @@
 </div>
 
 #### 🔗 Me encontre
-<a href = "mailto:alanfabriciobarbosa1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alanfabriciodev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href = "mailto:alanfabriciobarbosa1@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/alanfabriciodev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 
 
