@@ -1,8 +1,8 @@
-<h3 align="left">👋 Olá! Eu sou Alan Fabrício<br>📍 Local: Maceió - AL<br>💻 Desenvolvedor Full Stack em formação<br><br>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Digital Descomplica e expandindo meus conhecimentos em Desenvolvimento Full Stack no programa Vai na Web, focando em ReactJS e Python. Também estou aprimorando minhas habilidades em Java e Spring Boot através do curso de Back-End oferecido pela Oracle Next Education (ONE).</h3>
+<h2 align="left">About Me</h2>
 
 ###
 
-<h2 align="left">About Me</h2>
+<h3 align="left">👋 Olá! Eu sou Alan Fabrício<br>📍 Local: Maceió - AL<br>💻 Desenvolvedor Full Stack em formação<br><br>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Digital Descomplica e expandindo meus conhecimentos em Desenvolvimento Full Stack no programa Vai na Web, focando em ReactJS e Python. Também estou aprimorando minhas habilidades em Java e Spring Boot através do curso de Back-End oferecido pela Oracle Next Education (ONE).</h3>
 
 ###
 
