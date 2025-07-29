@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">👋 Olá! Sou Alan Fabrício<br>📍 Local: Maceió - AL<br>💻 Desenvolvedor Full Stack em formação<br><br>Estudante de Análise e Desenvolvimento de Sistemas na Digital Descomplica, com experiência em desenvolvimento full stack.
-Tenho conhecimento em javascript, react, python e um pouco de java, além de prática com bancos de dados como mysql. Participei de formações na escola Vai na Web e no programa Oracle Next Education e, atualmente, realizo monitorias em front-end e back-end na plataforma Impact..</h3>
+Tenho conhecimento em javascript, react, python e um pouco de c#, além de prática com bancos de dados como mysql. Participei de formações na escola Vai na Web e no programa Oracle Next Education e, atualmente, realizo monitorias em back-end na plataforma Impact.</h3>
 
 ###
 
