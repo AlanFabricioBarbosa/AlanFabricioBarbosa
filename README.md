@@ -32,8 +32,6 @@ Tenho conhecimento em javascript, react, python e um pouco de c#, além de prát
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="mysql logo"  />
